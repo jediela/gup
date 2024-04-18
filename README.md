@@ -1,1 +1,1 @@
-RUP: Platformer game where you "R"un "UP"!
+RUP: Platformer game where you "G"o"UP"!
